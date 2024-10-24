@@ -17,11 +17,13 @@ ul li{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+    align-items: center;
+    justify-content: center;
 }
 
 .navbar{
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-around;
     padding: 20px;
 }
